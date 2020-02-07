@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name testbed-rescue)(type Legacy)(uri ${KIPRJMOD}/testbed-rescue.lib)(options "")(descr ""))
+  (lib (name LOGIC_ICs)(type Legacy)(uri "C:/Users/jenny/Documents/Senior Design/PCB_solenoidboard/LOGIC_ICs.lib")(options "")(descr ""))
+  (lib (name MOSFETs)(type Legacy)(uri "C:/Users/jenny/Documents/Senior Design/PCB_solenoidboard/MOSFETs.lib")(options "")(descr ""))
+  (lib (name solenoid_board-cache)(type Legacy)(uri "C:/Users/jenny/Documents/Senior Design/PCB_solenoidboard/solenoid_board-cache.lib")(options "")(descr ""))
+)
