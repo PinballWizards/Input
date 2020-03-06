@@ -50,10 +50,10 @@ Wire Wire Line
 	4050 7800 4250 7800
 Connection ~ 4050 7800
 $Comp
-L Connector:Conn_01x05_Female J?
+L Connector:Conn_01x05_Female J6
 U 1 1 60CCFB94
 P 3850 6650
-F 0 "J?" H 3742 6225 50  0000 C CNN
+F 0 "J6" H 3742 6225 50  0000 C CNN
 F 1 "Conn_01x05_Female" H 3742 6316 50  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 3850 6650 50  0001 C CNN
 F 3 "~" H 3850 6650 50  0001 C CNN
@@ -119,10 +119,10 @@ Wire Wire Line
 	5800 7800 6000 7800
 Connection ~ 5800 7800
 $Comp
-L Connector:Conn_01x05_Female J?
+L Connector:Conn_01x05_Female J7
 U 1 1 60E6E409
 P 5600 6650
-F 0 "J?" H 5492 6225 50  0000 C CNN
+F 0 "J7" H 5492 6225 50  0000 C CNN
 F 1 "Conn_01x05_Female" H 5492 6316 50  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 5600 6650 50  0001 C CNN
 F 3 "~" H 5600 6650 50  0001 C CNN
@@ -188,10 +188,10 @@ Wire Wire Line
 	7700 7800 7900 7800
 Connection ~ 7700 7800
 $Comp
-L Connector:Conn_01x05_Female J?
+L Connector:Conn_01x05_Female J8
 U 1 1 60EB3334
 P 7500 6650
-F 0 "J?" H 7392 6225 50  0000 C CNN
+F 0 "J8" H 7392 6225 50  0000 C CNN
 F 1 "Conn_01x05_Female" H 7392 6316 50  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 7500 6650 50  0001 C CNN
 F 3 "~" H 7500 6650 50  0001 C CNN
@@ -221,7 +221,7 @@ Wire Wire Line
 Wire Wire Line
 	7900 7800 7900 6850
 Text Label 8250 7800 3    50   ~ 0
-A4
+D10
 Wire Wire Line
 	8250 7800 8650 7800
 Text Label 8250 8100 3    50   ~ 0
@@ -257,10 +257,10 @@ Wire Wire Line
 	9450 7800 9650 7800
 Connection ~ 9450 7800
 $Comp
-L Connector:Conn_01x05_Female J?
+L Connector:Conn_01x05_Female J9
 U 1 1 60EB3362
 P 9250 6650
-F 0 "J?" H 9142 6225 50  0000 C CNN
+F 0 "J9" H 9142 6225 50  0000 C CNN
 F 1 "Conn_01x05_Female" H 9142 6316 50  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 9250 6650 50  0001 C CNN
 F 3 "~" H 9250 6650 50  0001 C CNN
@@ -326,10 +326,10 @@ Wire Wire Line
 	11400 7800 11600 7800
 Connection ~ 11400 7800
 $Comp
-L Connector:Conn_01x05_Female J?
+L Connector:Conn_01x05_Female J10
 U 1 1 60F00E64
 P 11200 6650
-F 0 "J?" H 11092 6225 50  0000 C CNN
+F 0 "J10" H 11092 6225 50  0000 C CNN
 F 1 "Conn_01x05_Female" H 11092 6316 50  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 11200 6650 50  0001 C CNN
 F 3 "~" H 11200 6650 50  0001 C CNN
@@ -359,10 +359,10 @@ Wire Wire Line
 Wire Wire Line
 	11600 7800 11600 6850
 $Comp
-L Connector:Conn_01x05_Female J?
+L Connector:Conn_01x05_Female J1
 U 1 1 60F97685
 P 2000 5200
-F 0 "J?" H 1892 4775 50  0000 C CNN
+F 0 "J1" H 1892 4775 50  0000 C CNN
 F 1 "Conn_01x05_Female" H 1892 4866 50  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 2000 5200 50  0001 C CNN
 F 3 "~" H 2000 5200 50  0001 C CNN
@@ -484,10 +484,10 @@ Wire Wire Line
 Text Label 2000 3100 1    50   ~ 0
 D11
 $Comp
-L Connector:Conn_01x05_Female J?
+L Connector:Conn_01x05_Female J2
 U 1 1 6182D2F0
 P 4500 5200
-F 0 "J?" H 4392 4775 50  0000 C CNN
+F 0 "J2" H 4392 4775 50  0000 C CNN
 F 1 "Conn_01x05_Female" H 4392 4866 50  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 4500 5200 50  0001 C CNN
 F 3 "~" H 4500 5200 50  0001 C CNN
@@ -609,10 +609,10 @@ Wire Wire Line
 Text Label 4500 3100 1    50   ~ 0
 D12
 $Comp
-L Connector:Conn_01x05_Female J?
+L Connector:Conn_01x05_Female J3
 U 1 1 6188185B
 P 7000 5200
-F 0 "J?" H 6892 4775 50  0000 C CNN
+F 0 "J3" H 6892 4775 50  0000 C CNN
 F 1 "Conn_01x05_Female" H 6892 4866 50  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 7000 5200 50  0001 C CNN
 F 3 "~" H 7000 5200 50  0001 C CNN
@@ -734,10 +734,10 @@ Wire Wire Line
 Text Label 7000 3100 1    50   ~ 0
 D13
 $Comp
-L Connector:Conn_01x05_Female J?
+L Connector:Conn_01x05_Female J5
 U 1 1 6192308C
 P 12000 5200
-F 0 "J?" H 11892 4775 50  0000 C CNN
+F 0 "J5" H 11892 4775 50  0000 C CNN
 F 1 "Conn_01x05_Female" H 11892 4866 50  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 12000 5200 50  0001 C CNN
 F 3 "~" H 12000 5200 50  0001 C CNN
@@ -857,9 +857,9 @@ Wire Wire Line
 Wire Wire Line
 	11000 3450 11900 3450
 Text Label 12000 3100 1    50   ~ 0
-D15
+D6
 Text Label 9500 3100 1    50   ~ 0
-D14
+D5
 Wire Wire Line
 	8500 3450 9400 3450
 Wire Wire Line
@@ -973,10 +973,10 @@ F 3 "~" H 8500 4050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:Conn_01x05_Female J?
+L Connector:Conn_01x05_Female J4
 U 1 1 618818B6
 P 9500 5200
-F 0 "J?" H 9392 4775 50  0000 C CNN
+F 0 "J4" H 9392 4775 50  0000 C CNN
 F 1 "Conn_01x05_Female" H 9392 4866 50  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 9500 5200 50  0001 C CNN
 F 3 "~" H 9500 5200 50  0001 C CNN
@@ -1321,10 +1321,10 @@ F 3 "http://www.ti.com/lit/ds/symlink/sn65hvd72.pdf" H 15050 5631 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R26
+L Device:R R6
 U 1 1 5E6022EA
 P 14150 6300
-F 0 "R26" V 14035 6300 50  0000 C CNN
+F 0 "R6" V 14035 6300 50  0000 C CNN
 F 1 "R10" V 14035 6300 50  0001 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal" V 14080 6300 50  0001 C CNN
 F 3 "~" H 14150 6300 50  0001 C CNN
@@ -1332,10 +1332,10 @@ F 3 "~" H 14150 6300 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:R R27
+L Device:R R7
 U 1 1 5E603FC0
 P 14150 6550
-F 0 "R27" V 14035 6550 50  0000 C CNN
+F 0 "R7" V 14035 6550 50  0000 C CNN
 F 1 "R11" V 14035 6550 50  0001 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal" V 14080 6550 50  0001 C CNN
 F 3 "~" H 14150 6550 50  0001 C CNN
@@ -1364,31 +1364,31 @@ F 3 "~" V 14000 4175 50  0001 C CNN
 	1    14000 4150
 	1    0    0    -1  
 $EndComp
-Text Label 13750 8450 0    50   ~ 0
+Text Label 13950 7950 0    50   ~ 0
 D9
-Text Label 13750 8350 0    50   ~ 0
+Text Label 13950 7850 0    50   ~ 0
 SCK
-Text Label 13750 8250 0    50   ~ 0
+Text Label 13950 7750 0    50   ~ 0
 MISO
-Text Label 13750 8150 0    50   ~ 0
+Text Label 13950 7650 0    50   ~ 0
 MOSI
 Wire Wire Line
-	14350 8450 13750 8450
+	14550 7950 13950 7950
 Wire Wire Line
-	14350 8350 13750 8350
+	14550 7850 13950 7850
 Wire Wire Line
-	14350 8250 13750 8250
+	14550 7750 13950 7750
 Wire Wire Line
-	14350 8150 13750 8150
+	14550 7650 13950 7650
 $Comp
 L Connector:Conn_01x04_Female J11
 U 1 1 5E595ABD
-P 14550 8250
-F 0 "J11" H 14578 8226 50  0000 L CNN
-F 1 "Conn_01x04_Female" H 14578 8135 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 14550 8250 50  0001 C CNN
-F 3 "~" H 14550 8250 50  0001 C CNN
-	1    14550 8250
+P 14750 7750
+F 0 "J11" H 14778 7726 50  0000 L CNN
+F 1 "Conn_01x04_Female" H 14778 7635 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 14750 7750 50  0001 C CNN
+F 3 "~" H 14750 7750 50  0001 C CNN
+	1    14750 7750
 	1    0    0    -1  
 $EndComp
 Text Label 15000 1850 2    50   ~ 0
@@ -1454,8 +1454,6 @@ Text Label 13600 2050 2    50   ~ 0
 A0
 Text Label 13600 1850 2    50   ~ 0
 ARF
-Text Label 13600 1750 2    50   ~ 0
-3V3
 Text Label 13600 1650 2    50   ~ 0
 RST
 Wire Wire Line
@@ -1603,4 +1601,58 @@ Wire Notes Line rgb(0, 255, 255)
 	12200 5200 12200 6650
 Wire Notes Line rgb(0, 255, 255)
 	12200 6650 11400 6650
+$Comp
+L power:+3.3V #PWR0114
+U 1 1 5E63CFB0
+P 13600 8300
+F 0 "#PWR0114" H 13600 8150 50  0001 C CNN
+F 1 "+3.3V" H 13615 8473 50  0000 C CNN
+F 2 "" H 13600 8300 50  0001 C CNN
+F 3 "" H 13600 8300 50  0001 C CNN
+	1    13600 8300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	13600 8300 13600 8500
+Wire Wire Line
+	13600 8500 13750 8500
+$Comp
+L Device:R R8
+U 1 1 5E64FAD1
+P 13900 8500
+F 0 "R8" H 13970 8546 50  0000 L CNN
+F 1 "470" H 13970 8455 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal" V 13830 8500 50  0001 C CNN
+F 3 "~" H 13900 8500 50  0001 C CNN
+	1    13900 8500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D26
+U 1 1 5E650EA6
+P 14350 8500
+F 0 "D26" H 14343 8245 50  0000 C CNN
+F 1 "LED" H 14343 8336 50  0000 C CNN
+F 2 "LED_THT:LED_D5.0mm" H 14350 8500 50  0001 C CNN
+F 3 "~" H 14350 8500 50  0001 C CNN
+	1    14350 8500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	14050 8500 14200 8500
+$Comp
+L power:GND #PWR0115
+U 1 1 5E662952
+P 14750 8500
+F 0 "#PWR0115" H 14750 8250 50  0001 C CNN
+F 1 "GND" H 14755 8327 50  0000 C CNN
+F 2 "" H 14750 8500 50  0001 C CNN
+F 3 "" H 14750 8500 50  0001 C CNN
+	1    14750 8500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	14500 8500 14750 8500
+Text Notes 14250 8700 0    50   ~ 0
+PWR
 $EndSCHEMATC
